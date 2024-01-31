@@ -1,51 +1,17 @@
-# Shashi Kant Tiwari
+<h1 align="center">Hi 👋, I'm Shashi kant tiwari</h1>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
-Welcome to my GitHub profile! I'm Shashi Kant Tiwari, a passionate developer with a focus on full-stack development and a strong foundation in various technologies.
+- 🔭 I’m currently working on [AIEducation plan](https://github.com/shashi999Kant/AI_Education_Plan)
 
-## About Me
+- 🌱 I’m currently learning **spring boot ,AWS , microservices**
 
-- 🌍 Location: Lucknow, India
-- 📞 Contact: +91 9721301568
-- 📧 Email: skt972130@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/shashiknit](https://www.linkedin.com/in/shashiknit/)
+- 👨‍💻 All of my projects are available at [https://github.com/shashi999Kant](https://github.com/shashi999Kant)
 
-## Education
+- 💬 Ask me about **React js ,spring boot**
 
-- **B.Tech in Information Technology**
-  - KNIT Sultanpur, 2022-2025
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- **Diploma in Civil Engineering**
-  - Govt. Polytechnic Deoria, 2019-2022
-  - Percentage: 77%
-
-## Projects
-
-### Social Media Platform
-
-**Description:**
-Developed a comprehensive Social Media Platform featuring user authentication using JWT, customizable user profiles, post creation and management, and a dynamic commenting system. The project leveraged technologies like Spring Boot, React, and Hibernate JPA with MySQL.
-
-### Responsive Clothes Shopping Website
-
-**Description:**
-Developed a responsive clothes shopping website using HTML, Bootstrap, JavaScript, React.js, and Firebase. The website provides an intuitive user interface for browsing and purchasing clothes, ensuring a seamless experience on various devices.
-
-## Core Qualifications
-
-- **Programming Languages:** Core Java, C++, SQL, JavaScript
-- **Frameworks:** Spring Boot, ReactJs
-- **Skills:** Data Structures, Algorithms, OOPs, Operating System, Machine learning
-- **Soft Skills:** Team Leadership, Adaptability, Quick Learner, Strong Work Ethics, Commitment, and Integrity
-
-
-## Profiles
-
-- [LeetCode Profile](https://leetcode.com/shashiKNIT/)
-- [GitHub Profile](https://github.com/shashi999Kant)
-
-Feel free to explore my projects and repositories. Connect with me on LinkedIn for collaborations and discussions.
-
-<!---
-shashi999Kant/shashi999Kant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
