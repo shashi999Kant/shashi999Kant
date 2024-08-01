@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashi kant tiwari</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **RealTime **Trading **plateform **with **AI **Chatbot
+- 🔭 I’m currently working on **RealTime **Trading plateform with AI Chatbot**
 
 - 🌱 I’m currently learning **spring boot ,AWS , microservices**
 
