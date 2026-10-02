@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Shashi kant tiwari</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+# Hi, I'm Shashi Kant Tiwari 👋
 
-- 🔭 I’m currently working on **RealTime **Trading plateform with AI Chatbot**
+💻 **Software Developer at CSG International** | Backend Engineer
 
-- 🌱 I’m currently learning **spring boot ,AWS , microservices**
+I build scalable backend services for telecom billing and monetization platforms. I enjoy designing microservices, solving complex problems, and learning distributed systems.
 
-- 👨‍💻 All of my projects are available at [https://github.com/shashi999Kant](https://github.com/shashi999Kant)
+- 🔭 Working with **C#, .NET, Go, and microservices**
+- ☁️ Exploring **AWS, Docker, Kubernetes, and Terraform**
+- 🗄️ Interested in **system design, databases, and distributed systems**
+- 🌱 Continuously learning and building backend projects
+- 🤝 Open to collaborating on backend and Go projects
 
-- 💬 Ask me about **React js ,spring boot**
+### 🛠️ Tech Stack
+`C#` ` .NET` `Go` `Java` `Spring Boot` `PostgreSQL` `DynamoDB` `AWS` `Docker` `Kubernetes` `Terraform`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🔗 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/shashiknit/)
+- [GitHub](https://github.com/shashi999Kant)
+- [LeetCode](https://leetcode.com/u/shashiKNIT/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+*Building reliable systems, one commit at a time.* 🚀
